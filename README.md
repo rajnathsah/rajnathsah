@@ -1,7 +1,7 @@
 ## Hi, I am Raj 👋
 
 # Raj Nath Sah
-# Developer working with Data and Numbers
+<h1>Application developer with experience in Python and Database.</h1>
 
 <!--
 **rajnathsah/rajnathsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
