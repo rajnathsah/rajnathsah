@@ -7,8 +7,10 @@
 I'm an application developer who is passionate about open source technology, database application and problem solving. In my free time, i exlore technogy and put in my own words in blog. Some of the technologies i enjoy working with includes Python, Flask, Oracle Database and Shell Scripting.  
 
 ## Find me on web 🌎
-*  My profile on [rajnath.dev](https://rajnath.dev)  
-*  GitHub Blog [rajnathsah.github.io](https://rajnathsah.github.io/)  
+*  My profile [rajnath.dev](https://rajnath.dev)  
+*  Blogging on using github pages on [rajnathsah.github.io](https://rajnathsah.github.io/)  
+*  Linkedin updated on [Linkedin](https://www.linkedin.com/in/rajnathsah/)
+*  Tweet reader on [twitter](https://twitter.com/raj_nath_sah)
 
 <!--
 **rajnathsah/rajnathsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
