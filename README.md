@@ -1,16 +1,15 @@
 ## Hi, I am Raj 👋
 
-# Raj Nath Sah
 ## Application developer, blogger and content creator.  
 
-
-I'm an application developer who is passionate about open source technology, database application and problem solving. In my free time, i exlore technogy and put in my own words in blog. Some of the technologies i enjoy working with includes Python, Flask, Oracle Database and Shell Scripting.  
+An application developer who is passionate about open source technology, database applications and problem solving. In my free time, i explore technology and sometime put it in my own words on blog. Some of the technologies i enjoy working with includes Python, Database, ETL Tools, Web Framework (Flask and Django) and Scripting.  
 
 ## Find me on web 🌎
 *  My profile [rajnath.dev](https://rajnath.dev)  
-*  Blogging on using github pages on [rajnathsah.github.io](https://rajnathsah.github.io/)  
+*  Blogging using github pages on [rajnathsah.github.io](https://rajnathsah.github.io/)  
 *  Linkedin updated on [Linkedin](https://www.linkedin.com/in/rajnathsah/)
 *  Tweet reader on [twitter](https://twitter.com/raj_nath_sah)
+
 
 <!--
 **rajnathsah/rajnathsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
