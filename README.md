@@ -8,7 +8,7 @@ An application developer who is passionate about open source technology, databas
 *  My profile [rajnath.dev](https://rajnath.dev)  
 *  Blogging using github pages on [blog.rajnath.dev](https://blog.rajnath.dev/)  
 *  Linkedin updated on [Linkedin](https://www.linkedin.com/in/rajnathsah/)
-*  Tweet reader on [twitter](https://twitter.com/raj_nath_sah)
+*  Tweet reader on [twitter](https://twitter.com/rajntech)
 
 
 <!--
