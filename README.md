@@ -1,4 +1,4 @@
-## Hi, I am Raj 👋
+## Hello, I am Raj 👋
 
 ## Application developer, blogger and learner.  
 
