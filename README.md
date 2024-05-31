@@ -1,8 +1,8 @@
 ## Hello, I am Raj 👋
 
-## Application developer, blogger and learner.  
+## Developer, blogger and learner.  
 
-An application developer who is passionate about cloud, open source technology, database applications and problem solving. In my free time, i explore technology and sometime put it in my own words on blog. Some of the technologies i enjoy working with includes Python, Database, ETL Tools, Web Framework (Flask and Django) and Scripting.  
+An application developer who is passionate about cloud, open source technology, database applications and problem solving. In my free time, i explore technology and sometime put it in my own words on blogs. Some of the technologies i enjoy working with includes Python, Cloud, Database, ETL Tools, Web Framework (Flask and Django) and Scripting.  
 
 ## Find me on web 🌎
 *  My profile [rajnath.dev](https://rajnath.dev)  
